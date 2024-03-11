@@ -1,16 +1,3 @@
-# keep_track_project_scube
+![image](https://github.com/Bishozit/CRUD_Parcels/assets/110930138/d5e2b316-f636-499f-ba16-9592615cc167)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Bishozit/CRUD_Parcels/assets/110930138/cfd0702d-dbf0-4173-bbd7-ec6371732b7e)
